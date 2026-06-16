@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "employees",
+            "database": "${workspaceFolder:Day 4- Activity 2 — SQL First Queries via Public  GitHub}/Day4_practice sql/Day04_practice.db"
+        }
+    ]
+}
